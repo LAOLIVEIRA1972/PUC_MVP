@@ -1,0 +1,3 @@
+Dataset com atributos categóricos como texto. Transformei em numérico. Posso deixar explícito no código essa mudança ou o dataset já tem que estar dessa forma?
+Análise exploratória de dados será obrigatória? Minha primeira sprint.
+Votting: não vi como configurar seed, como o parâmetro ramdom_state. Há alguma forma de fazer isso.
