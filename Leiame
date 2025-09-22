@@ -1,3 +1,12 @@
-Dataset com atributos categóricos como texto. Transformei em numérico. Posso deixar explícito no código essa mudança ou o dataset já tem que estar dessa forma?
-Análise exploratória de dados será obrigatória? Minha primeira sprint.
-Votting: não vi como configurar seed, como o parâmetro ramdom_state. Há alguma forma de fazer isso.
+mvp_ML_Duracao_Paradas.ipynb
+============================
+
+Arquivo referente ao notebook do MVP Machine Learning e Analytics da PUC-RIO. 
+O arquivo é um código em python elaborado a partir do Google Colab.
+
+
+dataset_plataformas.xlsx
+========================
+
+Planilha em Excel contendo informações de paradas programadas. Corresponde ao dataset utilizado no MVP Machine Learning e Analytics.
+
